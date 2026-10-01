@@ -1,0 +1,13 @@
+{
+  "name": "fanra-test",
+  "version": "1.0.0",
+  "description": "Simple Hello Fanra test application",
+  "main": "hello_fanra.py",
+  "scripts": {
+    "test": "python hello_fanra.py",
+    "start": "python hello_fanra.py"
+  },
+  "keywords": ["fanra", "test"],
+  "author": "Fanra AI",
+  "license": "MIT"
+}
